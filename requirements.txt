@@ -1,0 +1,4 @@
+learnrl >= 0.2.1
+gym-retro >= 0.8.0
+tensorflow >= 2.3.0
+tensorflow_probability >= 0.11.1
